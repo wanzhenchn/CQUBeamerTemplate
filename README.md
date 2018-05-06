@@ -1,5 +1,6 @@
 # Welcome 
 CQUBeamerTemplate(version:1.0, 2018-05-04)
+
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT) 
 [![GitHub release](https://img.shields.io/badge/Github-V1.0-519dd9.svg)](https://github.com/Godblesswz/CQUBeamerTemplate)
 [![GitHub commits](https://img.shields.io/badge/commits-1-519dd9.svg)](https://github.com/Godblesswz/CQUBeamerTemplate/issues)
