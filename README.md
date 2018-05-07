@@ -2,7 +2,8 @@
 CQUBeamerTemplate(version:1.0, May 04, 2018)
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT) 
-[![GitHub release](https://img.shields.io/badge/Github-V1.0-519dd9.svg)](https://github.com/Godblesswz/CQUBeamerTemplate)
+[![GitHub develop](https://img.shields.io/badge/Github-V1.0-519dd9.svg)](https://github.com/Godblesswz/CQUBeamerTemplate)
+[![GitHub release](https://img.shields.io/badge/CTAN-V1.0-blue.svg)](https://ctan.org/pkg/cqubeamer)
 [![GitHub commits](https://img.shields.io/badge/commits-1-519dd9.svg)](https://github.com/Godblesswz/CQUBeamerTemplate/issues)
 ![](https://img.shields.io/badge/language-Tex-orange.svg)
 
