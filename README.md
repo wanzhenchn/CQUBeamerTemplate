@@ -10,6 +10,11 @@ CQUBeamerTemplate(version:1.0, May 04, 2018)
 ## What is the CQUBeamerTemplate?
 CQUBeamerTemplate is a LaTex Beamer Template designed for researchers of Chongqing University. It is developed based on [njumath_beamer](https://github.com/YLiu1231/njumath_beamer). This template can be used for academic report, conference or thesis defense, which is helpful for one to deliver a speech.
 
+## How to access to CQUBeamerTemplate?
+
+* [Development version](https://github.com/Godblesswz/CQUBeamerTemplate)
+* [Release version](https://ctan.org/pkg/cqubeamer)
+
 ## How to use CQUBeamerTemplate?
  
 Just to setup a Tex system on your machine and complie the *cqu_beamer.tex* wtih *xelatex* engine. Just that simple.
