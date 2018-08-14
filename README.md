@@ -1,5 +1,4 @@
 # Welcome 
-CQUBeamerTemplate(version:1.0, May 04, 2018)
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT) 
 [![GitHub develop](https://img.shields.io/badge/Github-V1.0-519dd9.svg)](https://github.com/Godblesswz/CQUBeamerTemplate)
@@ -28,3 +27,6 @@ The content of this project itself(i.e. the PDF output of this project) is licen
 * 您尊重我们的署名权，在行使权力时（包括但不限于对本作品部分或全部的转载、复制、引用、演绎）向我们致谢，并附上[项目链接](https://github.com/Godblesswz/CQUBeamerTemplate)；
 * 您不能在行使权力时使用技术手段影响这份内容许可的效力；
 * 您同意，我们不应该也不会为您的任何行为负责。
+
+## Update
+- May 04, 2018 CQUBeamerTemplate(version:1.0)
