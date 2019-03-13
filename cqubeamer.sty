@@ -205,6 +205,7 @@
 % get numbering in section bookmarks
 \usepackage{etoolbox}
 \usepackage{bookmark}
+
 \makeatletter
 
 \newcounter{realsection}
@@ -222,12 +223,13 @@
     {\Hy@writebookmark{\the\c@section}{\numberline{\therealsection}\secname}}%
     {}{\errmessage{failed to patch}}
 \patchcmd{\beamer@subsection}%
-   {\Hy@writebookmark{\the\c@subsection}{#2}}%
-    {\Hy@writebookmark{\the\c@subsection}{\numberline{\therealsection.\thesubsection}#2}}%
+   {\Hy@writebookmark{\the\c@subsection}{\subsecname}}%
+    {\Hy@writebookmark{\the\c@subsection}{\numberline{\therealsection.\thesubsection}\subsecname}}%
     {}{\errmessage{failed to patch}}
+
 \patchcmd{\beamer@subsubsection}%
-    {\Hy@writebookmark{\the\c@subsubsection}{#2}}%
-    {\Hy@writebookmark{\the\c@subsubsection}{\numberline{\therealsection.\thesubsection.\thesubsubsection}#2}}%
+    {\Hy@writebookmark{\the\c@subsubsection}{\subsubsecname}}%
+    {\Hy@writebookmark{\the\c@subsubsection}{\numberline{\therealsection.\thesubsection.\thesubsubsection}\subsubsecname}}%
     {}{\errmessage{failed to patch}}
 \makeatother
 
